@@ -1,5 +1,5 @@
 <?php
-$nama ="IKHSAN";
+$nama ="dafa";
 $umur = 19;
 $tinggi = 170;
 $aktif = true;
