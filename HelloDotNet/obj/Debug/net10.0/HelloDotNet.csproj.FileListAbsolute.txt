@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\bin\Debug\net10.0\HelloDotNet.exe
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\bin\Debug\net10.0\HelloDotNet.deps.json
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\bin\Debug\net10.0\HelloDotNet.runtimeconfig.json
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\bin\Debug\net10.0\HelloDotNet.dll
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\bin\Debug\net10.0\HelloDotNet.pdb
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.AssemblyInfo.cs
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.sourcelink.json
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.dll
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\refint\HelloDotNet.dll
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.pdb
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\HelloDotNet.genruntimeconfig.cache
+C:\Users\user\Documents\Algoritma_Pemograman_2025 2026\dafaagasya\HelloDotNet\obj\Debug\net10.0\ref\HelloDotNet.dll
